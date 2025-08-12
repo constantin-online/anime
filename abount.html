@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>О нашем сайте</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #f9f9f9;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        .about-section, .discord-section, .comments-section {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+
+        .discord-widget {
+            width: 100%;
+            height: 500px;
+            border: none;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать на наш сайт!</h1>
+    </header>
+
+    <section class="about-section">
+        <h2>О нашем проекте</h2>
+        <p>Этот сайт был создан с целью предоставить полезную информацию для всех, кто интересуется веб-разработкой и современными технологиями. Мне всегда хотелось создать платформу, где можно делиться знаниями и опытом с другими энтузиастами.</p>
+        
+        <h3>Почему я создал этот сайт?</h3>
+        <p>Основные причины создания:</p>
+        <ul>
+            <li>Желание поделиться своими знаниями</li>
+            <li>Создать сообщество единомышленников</li>
+            <li>Помочь новичкам в освоении веб-технологий</li>
+            <li>Практика в разработке и дизайне</li>
+        </ul>
+    </section>
+
+
+    <!-- Секция комментариев -->
+    <section class="comments-section">
+        <h2>Комментарии пользователей</h2>
+        
+        <div id="anycomment-stream"></div>
+        <script>
+            AnyComment = window.AnyComment || []; AnyComment.CommentStream = [];
+            AnyComment.CommentStream.push({
+                root: "anycomment-stream",
+                app_id: 6976,
+                language: "ru"
+            });
+            var s = document.createElement("script"); 
+            s.type = "text/javascript"; 
+            s.async = true;
+            s.src = "https://widget.anycomment.io/stream/embed.js";
+            var sa = document.getElementsByTagName("script")[0];
+            sa.parentNode.insertBefore(s, s.nextSibling);
+        </script>
+    </section>
+</body>
+</html>

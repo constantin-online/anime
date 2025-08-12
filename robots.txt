@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://animach.online/</loc>
+	<lastmod>2025-03-09T20:20:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://animach.online/zakaz.html</loc>
+	<lastmod>2025-03-09T20:20:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://animach.online/poisk.html</loc>
+	<lastmod>2025-03-09T20:20:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://animach.online/anime/drstoun1sezon.html</loc>
+	<lastmod>2025-03-09T20:20:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://animach.online/anime/drstoun2sez.html</loc>
+	<lastmod>2025-03-09T20:20:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://animach.online/anime/drstoun3sez.html</loc>
+	<lastmod>2025-03-09T20:20:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://animach.online/anime/drstoun4sez.html</loc>
+	<lastmod>2025-03-09T20:20:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://animach.online/arisefromtheshadow.html</loc>
+	<lastmod>2025-03-09T20:20:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://animach.online/kusuriyanohitorigoto.html</loc>
+	<lastmod>2025-03-09T20:20:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://animach.online/medalist.html</loc>
+	<lastmod>2025-03-09T20:20:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://animach.online/touhai.html</loc>
+	<lastmod>2025-03-09T20:20:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://animach.online/sakamotodays.html</loc>
+	<lastmod>2025-03-09T20:20:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://animach.online/behemoth.html</loc>
+	<lastmod>2025-03-09T20:20:45+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+    <loc>https://animach.online/behemoth.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/amagamisanchinoenmusubi.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/youkaigakkounosenseihajimemashita.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/Ishura2.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/hana.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/zero.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/grisaia.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/magicmaker.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/kijingentoushou.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/arumajogashinumade.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/takamine.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/around40.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/danjo.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/lazarus.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/zatsu.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/shiunji-ke.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/watashi.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/ninja.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/moonrise.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/teogonia.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/neng.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/sentai.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/mono.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/lycoris.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/sugiredo.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/cardfight.html</loc>
+</url>
+<url>
+    <loc>https://animach.monster</loc>
+</url>
+<url>
+    <loc>https://animach.online/muumuu.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/shirobuta.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/kanpekisugite.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/apocalypsehotel.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/huofengliaoyuan.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/konosubarashii.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/gquuuuuux.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/nazotoki.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/yongheng.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/mononoke.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/yami.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/miru.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/kun.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/chotto.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/jiandao.html</loc>
+</url>
+<url>
+    <loc>https://animach.online/compass.html</loc>
+</url>
+</urlset>
